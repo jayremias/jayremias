@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💾 Linguagens: <strong>Javascript, Typescript, PHP.</strong>
+  💾 Code: <strong>PHP, Typescript, Javascript, Node.js, React</strong>
 </p>
 
 <p align="left">
